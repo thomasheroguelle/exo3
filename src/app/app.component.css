@@ -1,0 +1,9 @@
+.card {
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+}
+
+.card:last-of-type {
+  margin-top: 30px;
+}
